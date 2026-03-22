@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # calculadora_imc
 
 A new Flutter project.
@@ -15,3 +16,6 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+=======
+# calculadora-imc-flutter
+>>>>>>> 07d1a6dd3a86f40513411233e2112bc06e668cc0
