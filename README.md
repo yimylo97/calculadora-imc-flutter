@@ -4,7 +4,7 @@ Aplicación móvil desarrollada en **Flutter** que permite calcular el **Índice
 
 ---
 
-## Descripción
+##Descripción
 
 La aplicación solicita al usuario:
 
@@ -16,7 +16,7 @@ Realiza la conversión de altura de **cm a metros** y calcula el IMC usando la f
 
 ---
 
-## Funcionalidades
+##Funcionalidades
 
 - Ingreso de peso y altura
 - Validación de campos:
