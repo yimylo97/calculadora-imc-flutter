@@ -1,21 +1,76 @@
-<<<<<<< HEAD
-# calculadora_imc
+# Calculadora IMC en Flutter
 
-A new Flutter project.
+Aplicación móvil desarrollada en **Flutter** que permite calcular el **Índice de Masa Corporal (IMC)** a partir del peso y la altura ingresados por el usuario.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 📱 Descripción
 
-A few resources to get you started if this is your first Flutter project:
+La aplicación solicita al usuario:
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+- Peso en kilogramos (kg)
+- Altura en centímetros (cm)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-=======
-# calculadora-imc-flutter
->>>>>>> 07d1a6dd3a86f40513411233e2112bc06e668cc0
+Realiza la conversión de altura de **cm a metros** y calcula el IMC usando la fórmula:
+
+
+---
+
+## ⚙️ Funcionalidades
+
+- Ingreso de peso y altura
+- Validación de campos:
+  - No vacíos
+  - Valores numéricos
+  - Valores positivos
+- Conversión automática de cm a metros
+- Cálculo del IMC
+- Clasificación del resultado:
+  - Bajo peso
+  - Peso normal
+  - Sobrepeso
+  - Obesidad
+
+---
+
+## Ejemplo de uso
+
+**Entrada:**
+
+- Peso: 80 kg  
+- Altura: 165 cm  
+
+**Salida:**
+
+- IMC: 29.38  
+- Categoría: Sobrepeso  
+
+---
+
+##Tecnologías utilizadas
+
+- Flutter
+- Dart
+- Material Design
+
+---
+
+## Conceptos aplicados
+
+- Validación de formularios
+- Manejo de estado (`StatefulWidget`)
+- Controladores (`TextEditingController`)
+- Lógica condicional
+- Interfaz con widgets de Flutter
+
+---
+
+## bjetivo académico
+
+Este proyecto fue desarrollado como parte de la asignatura **Programación de Dispositivos Móviles**, con el objetivo de aplicar lógica de programación, validación de datos e interfaces gráficas en Flutter.
+
+---
+
+## Autor
+
+**Yimy**
